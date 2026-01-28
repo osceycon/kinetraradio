@@ -1,0 +1,6 @@
+title: wkne
+description: wkne site
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-relative-links
